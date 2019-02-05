@@ -1,0 +1,10 @@
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\bin\Debug\Lab3B.exe.config
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\bin\Debug\Lab3B.exe
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\bin\Debug\Lab3B.pdb
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\obj\Debug\Hairdresser_Services.csprojAssemblyReference.cache
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\obj\Debug\Lab3B.Form1.resources
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\obj\Debug\Hairdresser_Services.csproj.GenerateResource.cache
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\obj\Debug\Hairdresser_Services.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\obj\Debug\Lab3B.exe
+D:\xampp\htdocs\GitHub\hairdress-services-app\Lab3B\obj\Debug\Lab3B.pdb

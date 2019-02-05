@@ -1,0 +1,20 @@
+C:\Users\Anth\source\repos\Lab3B\Lab3B\bin\Debug\Lab3B.exe.config
+C:\Users\Anth\source\repos\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+C:\Users\Anth\source\repos\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+C:\Users\Anth\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.csprojAssemblyReference.cache
+C:\Users\Anth\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.Form1.resources
+C:\Users\Anth\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+C:\Users\Anth\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\Anth\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\Anth\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.exe
+C:\Users\Anth\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.pdb
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\bin\Debug\Lab3B.exe.config
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.csprojAssemblyReference.cache
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.Form1.resources
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.exe
+D:\College\2nd year shit\1st term\dotNET\AplidgiotisA_Lab3\Lab3B\Lab3B\obj\Debug\Lab3B.pdb
